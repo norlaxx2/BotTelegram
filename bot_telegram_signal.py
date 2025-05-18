@@ -7,7 +7,7 @@ from ta.trend import EMAIndicator
 from telegram import Update, Bot
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TELEGRAM_TOKEN = "7889785497:AAFPyYGdi-aCNZp-KbitYvQdpb9Te8ugowE"
+TELEGRAM_TOKEN = "889785497:AAFknl4K-r7Z5YlWWKUz3AgrFFn-KwkzCEY"
 
 # Estado global
 monitoring = False
